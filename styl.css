@@ -1,0 +1,32 @@
+body {
+  background: url(IMG_20250405_225538_474.jpg);
+  background-size: 100%;
+}
+h1 {
+  color: rgb(175, 114, 21, 0.904);
+  margin-left: 280px;
+  margin-top: 150px;
+  text-shadow: 2px 2px 5px rgb(121, 99, 20);
+  letter-spacing: 15px;
+  word-spacing: 10px;
+}
+h2 {
+  color: rgb(253, 250, 230);
+  margin-left: 370px;
+  text-shadow: 2px 2px 5px white;
+  word-spacing: 10px;
+}
+p {
+  color: rgb(246, 241, 241);
+  margin-top: 100px;
+  height: 50px;
+  font-size: 30px;
+  text-shadow: 2px 2px 5px rgb(153, 225, 238);
+}
+a {
+  color: white;
+  direction: rtl;
+  text-align: right;
+  font-size: 40px;
+  margin-right: 880px;
+}
